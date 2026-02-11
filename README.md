@@ -1,4 +1,16 @@
-## Hi there 👋
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeJeongHeon02&show_icons=true&theme=radical" alt="JeongHeon's Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJeongHeon02&layout=compact&theme=radical" alt="Top Langs" />
+  
+  <br/>
+  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJeongHeon02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
+</div>
 
 <!--
 **LeeJeongHeon02/LeeJeongHeon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
