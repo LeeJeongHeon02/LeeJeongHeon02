@@ -1,13 +1,23 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=435&lines=I+always+do+my+best!" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeJeongHeon02&show_icons=true&theme=radical&v=2" alt="JeongHeon's Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJeongHeon02&layout=compact&theme=radical&v=2" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeeJeongHeon02&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJeongHeon02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeeJeongHeon02&show_icons=true&theme=radical&v=2" alt="JeongHeon's Stats" width="48%" />  
+</div>
+
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeeJeongHeon02&color=79C83D&label=hits" alt="Hits" />
 </div>
 
 <!--
