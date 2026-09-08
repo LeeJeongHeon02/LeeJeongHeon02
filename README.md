@@ -1,5 +1,3 @@
-<h1 align="center">이정헌</h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=Backend+Developer;Performance+%26+Reliability;Backend+Engineering+%26+DevOps" alt="Backend Developer" />
