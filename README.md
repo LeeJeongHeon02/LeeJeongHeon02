@@ -25,16 +25,16 @@
 - Java와 Spring을 중심으로 백엔드 서비스를 개발합니다.
 - 트랜잭션 경계, 외부 I/O, 데이터 정합성을 함께 고려해 시스템을 설계합니다.
 - k6, Prometheus, Grafana로 성능을 측정하고 개선 결과를 수치로 검증합니다.
-- 팀 리딩과 기술지원을 통해 개발 기준을 정리하고 협업 환경을 개선해 왔습니다.
+- 항상 모든 일에 최선을 다 하자는 마음가짐으로 살아갑니다.
 
 ## Experience & Leadership
 
 | 기간 | 활동 | 역할 |
 | --- | --- | --- |
-| 2026.09 – Present | UMC Hongik 11TH | 부회장 |
+| 2026.09 – Present | UMC Hongik 11TH | Vice president |
 | 2026.06 – 2026.07 | 신한 스퀘어브릿지 청년 해커톤 | Backend Developer |
-| 2026.03 – 2026.08 | UMC Hongik 10TH | Server 파트장 |
-| 2026.03 – 2026.07 | TAVE 17기 | 백엔드 기술처원 |
+| 2026.03 – 2026.08 | UMC Hongik 10TH | Server Part leader |
+| 2026.03 – 2026.07 | TAVE 17기 | Backend Developer |
 | 2025.09 – 2026.02 | UMC Hongik 9TH| Server Challenger |
 
 ## Awards
